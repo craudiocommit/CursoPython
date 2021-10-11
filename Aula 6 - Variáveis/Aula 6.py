@@ -1,4 +1,4 @@
-# Iniciar com eltra, pode conter números separa -, letras minúsculas
+# Variáveis - Iniciar com letra, pode conter números separa -, letras minúsculas
 
 nome = 'Claudio Juior'
 idade = 33

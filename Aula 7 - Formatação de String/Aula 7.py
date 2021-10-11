@@ -1,4 +1,4 @@
-# Introdução à String
+# Introdução à formatação de string
 
 nome = 'Claudio Juior'
 idade = 33
