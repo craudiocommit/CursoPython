@@ -7,5 +7,5 @@ Saída de dados - print
 # print('Claudio', 'Junior', sep='-', end='#####')
 # print('João', 'e', 'Maria', sep='-', end='')
 
-print('342', '464', '238', sep='.', end='-')
-print('07')
+print('123', '456', '789', sep='.', end='-')
+print('10')
