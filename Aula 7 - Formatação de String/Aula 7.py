@@ -1,10 +1,10 @@
 # Introdução à formatação de string
 
-nome = 'Claudio Juior'
-idade = 33
-altura = 1.70
+nome = 'Pedrinho da Silva'
+idade = 45
+altura = 1.92
 e_maior = idade > 18
-peso = 82
+peso = 92.4
 imc = peso / altura ** 2
 
 # Jeitos diferentes de concatenar
