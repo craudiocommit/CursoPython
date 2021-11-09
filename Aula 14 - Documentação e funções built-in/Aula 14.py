@@ -1,5 +1,7 @@
 """
 SEMPRE LEIA A DOCUMENTAÇÃO DA LINGUAGEM
+
+Teste
 """
 
 num1 = input('Digite um número: ')
